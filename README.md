@@ -1,6 +1,7 @@
 # bmi
 
 A new Flutter project.
+in this project i learned how to take input from the user.
 
 ## Getting Started
 
